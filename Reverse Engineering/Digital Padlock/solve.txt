@@ -1,0 +1,9 @@
+I am using WSL
+
+and cd in WSL file path style
+
+cd /mnt/d/Project_2024/CTFPrep-Onboarding-Platform/Reverse\ Engineering/Digital\ Padlock
+
+compile c file : gcc Padlock.c -o padlock
+
+run program: ./padlock
