@@ -1,0 +1,4 @@
+wavacity
+steganographic decoder: https://futureboy.us/stegano/decinput.html
+
+CTFPrep{H1dD3n_C0l0ur5}
