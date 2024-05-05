@@ -11,4 +11,4 @@ Another Update: Try this! http://3.93.199.122:8000/challenges
 ![image](https://github.com/TheDaniel3131/CTFPrep-Onboarding-Platform/assets/71692327/3a8b02cd-6d9e-433e-b93b-cb7723d21655)
 
 
-
+View Recording: https://cloudmails.sharepoint.com/:v:/s/CTFOnboardingwithCTFPrep/Ea3EjkL6Vg1IlFeR1OFK1rAB2zoz5opN8lebZODfxAKhFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Dtn6nW
